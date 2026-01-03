@@ -1,0 +1,28 @@
+Country name,Region,happy,upperwhisker,lowerwhisker,GDP_capita_logged,Social_support,Life_expectancy,Freedom,Generosity,Coruption,Dystopia + residual,Region_2,Europe,Middle_East,Australia,South_America,North_America,Asia,Africa,cluster
+Denmark,Western Europe,7.583,7.665,7.5,1.908,1.52,0.699,0.823,0.204,0.548,1.881,Europe,1,0,0,0,0,0,0,1
+Netherlands,Western Europe,7.319,7.383,7.256,1.901,1.462,0.706,0.725,0.247,0.372,1.906,Europe,1,0,0,0,0,0,0,1
+Ireland,Western Europe,6.838,6.927,6.749,2.129,1.39,0.7,0.758,0.205,0.418,1.239,Europe,1,0,0,0,0,0,0,1
+Czechia,Central and Eastern Europe,6.822,6.903,6.741,1.783,1.511,0.638,0.787,0.177,0.068,1.858,Europe,1,0,0,0,0,0,0,1
+Saudi Arabia,Middle East and North Africa,6.594,6.707,6.48,1.842,1.361,0.511,0.787,0.114,0.188,1.79,Middle_East,0,1,0,0,0,0,0,1
+Chile,Latin America and Caribbean,6.36,6.448,6.273,1.616,1.369,0.673,0.651,0.117,0.075,1.858,South_America,0,0,0,1,0,0,0,1
+Malta,Western Europe,6.346,6.43,6.261,1.827,1.444,0.707,0.727,0.25,0.125,1.267,Europe,1,0,0,0,0,0,0,1
+Brazil,Latin America and Caribbean,6.272,6.39,6.154,1.43,1.269,0.548,0.685,0.13,0.142,2.068,South_America,0,0,0,1,0,0,0,1
+Cyprus,Western Europe,6.068,6.182,5.954,1.794,1.217,0.744,0.529,0.124,0.049,1.611,Europe,1,0,0,0,0,0,0,1
+Portugal,Western Europe,6.03,6.134,5.925,1.728,1.368,0.699,0.757,0.047,0.035,1.397,Europe,1,0,0,0,0,0,0,1
+Malaysia,Southeast Asia,5.975,6.078,5.872,1.646,1.143,0.54,0.829,0.226,0.119,1.473,Asia,0,0,0,0,0,1,0,1
+China,East Asia,5.973,6.061,5.885,1.497,1.239,0.629,0.704,0.132,0.164,1.608,Asia,0,0,0,0,0,1,0,1
+Peru,Latin America and Caribbean,5.841,5.946,5.736,1.371,1.18,0.662,0.615,0.078,0.029,1.907,South_America,0,0,0,1,0,0,0,1
+Moldova,Commonwealth of Independent States,5.816,5.93,5.702,1.385,1.277,0.542,0.695,0.077,0.044,1.795,Europe,1,0,0,0,0,0,0,1
+Bolivia,Latin America and Caribbean,5.784,5.895,5.674,1.217,1.179,0.488,0.719,0.1,0.061,2.02,South_America,0,0,0,1,0,0,0,1
+Congo (Brazzaville),Sub-Saharan Africa,5.221,5.396,5.047,0.892,0.622,0.306,0.523,0.124,0.138,2.617,Africa,0,0,0,0,0,0,1,0
+Mozambique,Sub-Saharan Africa,5.216,5.406,5.027,0.56,0.883,0.156,0.728,0.158,0.196,2.536,Africa,0,0,0,0,0,0,1,0
+Iran,Middle East and North Africa,4.923,5.024,4.822,1.435,1.136,0.571,0.366,0.235,0.123,1.057,Middle_East,0,1,0,0,0,0,0,1
+Namibia,Sub-Saharan Africa,4.832,4.958,4.705,1.266,1.212,0.307,0.47,0.069,0.061,1.446,Africa,0,0,0,0,0,0,1,0
+Burkina Faso,Sub-Saharan Africa,4.548,4.686,4.41,0.756,0.685,0.274,0.483,0.173,0.179,1.999,Africa,0,0,0,0,0,0,1,0
+Ghana,Sub-Saharan Africa,4.289,4.396,4.182,1.077,0.747,0.36,0.623,0.183,0.028,1.273,Africa,0,0,0,0,0,0,1,0
+Liberia,Sub-Saharan Africa,4.269,4.474,4.063,0.619,0.673,0.301,0.546,0.178,0.075,1.878,Africa,0,0,0,0,0,0,1,0
+Egypt,Middle East and North Africa,3.977,4.066,3.887,1.37,0.996,0.488,0.49,0.025,0.259,0.349,Africa,0,0,0,0,0,0,1,0
+Bangladesh,South Asia,3.886,3.994,3.778,1.122,0.249,0.513,0.775,0.14,0.167,0.919,Asia,0,0,0,0,0,1,0,0
+Comoros,Sub-Saharan Africa,3.566,3.754,3.378,0.896,0.328,0.37,0.172,0.128,0.16,1.512,Africa,0,0,0,0,0,0,1,0
+Yemen,Middle East and North Africa,3.561,3.714,3.408,0.671,1.281,0.293,0.362,0.08,0.113,0.76,Middle_East,0,1,0,0,0,0,0,0
+Afghanistan,South Asia,1.721,1.775,1.667,0.628,0.0,0.242,0.0,0.091,0.088,0.672,Asia,0,0,0,0,0,1,0,0
